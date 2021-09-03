@@ -22,34 +22,34 @@ Build Service Windows Python3.9
 
 ## 📝 Doc Build 
 > Clone Project https :
-`-> git clone https://github.com/Heidet/Python-Service-Cx_Freeze.git`
+```-> git clone https://github.com/Heidet/Python-Service-Cx_Freeze.git```
 
 > Create VirtualEnv :
-`-> YourPathPython39 -m venv `
+```-> YourPathPython39 -m venv ```
 
 > Get Requirements :
-`-> YourPathPython39 -m pip install -r requirements.txt`
+```-> YourPathPython39 -m pip install -r requirements.txt```
 
 > Edit config.py :
-`-> change the NAME and DISPLAYNAME variables to put the service name and the name to display as well as DESC`
+```-> change the NAME and DISPLAYNAME variables to put the service name and the name to display as well as DESC```
 
 > Edit setup.cfg :
-`-> Add your modules and packages`
+```-> Add your modules and packages```
 	
 > Build setup.py :
-`-> YourPathPython39 setup.py build`
+```-> YourPathPython39 setup.py build```
 
 
 
 ## 📝 Doc Install Service
 > Change directory :
-`-> /build/exe.win-amd64-3.9/`
+```-> /build/exe.win-amd64-3.9/```
 
 > Install Service :
-`-> servicename.exe --install <NAMESERVICE>`
+```-> servicename.exe --install <NAMESERVICE>```
 
 > Desinstall Service :
-`-> servicename.exe --uninstall <NAMESERVICE>`
+```-> servicename.exe --uninstall <NAMESERVICE>```
 
 
 ## License
