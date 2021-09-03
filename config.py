@@ -38,8 +38,8 @@
 
 NAME = "service name %s"
 DISPLAY_NAME = "Display service name %s"
-MODULE_NAME = "PyModule service handler"
-CLASS_NAME = "Name Class"
+MODULE_NAME = 'ServiceHandler'
+CLASS_NAME = 'Handler'
 DESCRIPTION = "DESC"
 AUTO_START = False
 SESSION_CHANGES = False
