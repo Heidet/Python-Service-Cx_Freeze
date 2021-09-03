@@ -42,7 +42,7 @@ Build setup.py :
 
 
 ## 📝 Doc Install Service
-===
+
 Change directory :
 ```-> /build/exe.win-amd64-3.9/```
 
