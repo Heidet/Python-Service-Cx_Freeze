@@ -13,7 +13,7 @@
   </a>
 </p>
 
-> Build Service Windows Python3.9
+Build Service Windows Python3.9
 
 ## Author
 👤 **Antoine Heidet** 
