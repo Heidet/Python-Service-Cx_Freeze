@@ -1,2 +1,4 @@
 compile_convd_windows.bat
 env/
+lib/
+__pycache__/
