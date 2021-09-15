@@ -55,4 +55,4 @@ Desinstall Service :
 
 ## License
 Copyright © 2021 [Antoine Heidet](https://github.com/Heidet).<br />
-This project is [EzAntoine HeidetDEV](https://github.com/Heidet) licensed.
+This project is [Antoine Heidet](https://github.com/Heidet) licensed.
